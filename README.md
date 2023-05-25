@@ -5,7 +5,7 @@ Please review all the material here to ensure you are aware of all the guideline
 
 ## New Leakey Lab Member Checklist
 - [ ] Review the [Data Management Best Practices](https://github.com/leakey-lab/new-member-onboarding/blob/main/Data-Management)
-- [ ] Review your [Data Storage Options]
+- [ ] Review your [Data Storage Options](https://github.com/leakey-lab/new-member-onboarding/blob/main/Data%20Storage%20Options.md)
 - [ ] Review the Shared Data Resources List
 - [ ] Ask to be added to the Leakey Lab Box Folder
 - [ ] Access the Leakey Lab File Server Directory
