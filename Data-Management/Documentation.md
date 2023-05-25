@@ -30,5 +30,5 @@ Metadata and Readme files are two types of documentation, which are described be
   - They are typically in TXT or markdown format. These are typically human-readable and used by other researchers to understand the full context of the data. They need to be read on any platform.
   - These files include both the study-level and the data-level documentation elements. The standard elements of metadata files are included here as well, but readme files give users fuller contextual information after downloading the data. The readme files should be downloadable with the dataset.
   - Examples Templates:
-    - [Dataset]
-    - [Code]
+    - [Dataset](https://github.com/lensor/new-member-onboarding/blob/main/Data-Management/README_DATASET_template.txt)
+    - [Code](https://github.com/lensor/new-member-onboarding/blob/main/Data-Management/README_SOFTWARE_template.txt)
