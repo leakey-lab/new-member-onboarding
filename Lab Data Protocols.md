@@ -1,6 +1,8 @@
 # Leakey Lab Data 
 
 1. [Shared Data Resources](#shared-lab-data-resources)
+2. [Data Management Planning](#data-management-planning)
+3. [Data Sharing Requirements](#data-sharing-requirements)
 
 ## Shared Lab Data Resources
 ### Leakey Lab Box Folder
@@ -18,6 +20,7 @@ All members of the Leakey Lab can use the shared space in the GEGC theme folder.
 - any analyses or processed data
 
 ## Data Management Planning
+
 1. All researchers joining the lab need to develop a data management plan for their project. Researchers should:
     - Estimate how much data will be collected/generated 
     - Determine what processing resources will be needed 
@@ -32,4 +35,13 @@ All members of the Leakey Lab can use the shared space in the GEGC theme folder.
 4. Documentation/Log
 
 ## Data Sharing Requirements
-All raw data collected belongs to the Leakey Lab and the agency funding your research. To protect this investment, researchers are required to upload all raw datasets to the shared Leakey Lab Box folder.
+
+### Raw Data
+All raw data collected belongs to the Leakey Lab and the agency funding your research. To protect this investment, researchers are required to upload all raw datasets to the shared Leakey Lab Box folder. *While this data will be shared with all researchers in the lab, no researcher should use your data without direct communication with the researcher who uploads it and Andrew Leakey until the dataset and accompanying manuscript has been published.*
+1. Use a descriptive, standardized name for each file. See the [Data Management Best Practices Page](Data-Management/Best Practices.md) for examples. 
+2. Organize the files in a folder structure that makes sense. This could potentially be by date, locations, or data types. The file structure and file name together should make it clear as to what data is in the file.
+3. Create a folder in the Raw Data directory in the Leakey Lab Box folder. The folder should be under the grant, project, and researcher's name. Create any of these folders if necessary.
+4. For each dataset downloaded, create a [README File](Data-Management/README_DATASET_template.txt) to upload with the dataset. Please take time to describe the dataset, so it is useful to both you and later researchers in the future. 
+
+### Published Data
+All data supporting 
