@@ -1,5 +1,7 @@
 # Leakey Lab Data 
 
+1. [Shared Data Resources](#shared-lab-data-resources)
+
 ## Shared Lab Data Resources
 ### Leakey Lab Box Folder
 
