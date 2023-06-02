@@ -44,4 +44,4 @@ All raw data collected belongs to the Leakey Lab and the agency funding your res
 4. For each dataset downloaded, create a [README File](Data-Management/README_DATASET_template.txt) to upload with the dataset. Please take time to describe the dataset, so it is useful to both you and later researchers in the future. 
 
 ### Published Data
-All data supporting 
+All datasets supporting manuscripts should be published either via a subject-related repository (search for one using the [Registry of Research Data Repositories](https://www.re3data.org/)), the [Illinois Data Bank](https://databank.illinois.edu/), or another 
