@@ -1,4 +1,4 @@
-# Data Management Best Practices
+# Data Storage Best Practices
 
 ## File Naming Conventions
 
