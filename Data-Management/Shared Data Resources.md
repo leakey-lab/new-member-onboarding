@@ -2,8 +2,8 @@
 
 ## Leakey Lab Shared Storage
 1. Box ([https://uofi.box.com/s/y7d9vdfhtrbyj5o121eo7eovpq98v7yb](https://uofi.box.com/s/y7d9vdfhtrbyj5o121eo7eovpq98v7yb))
-  a. This area is shared by all graduate students, postdocs and undergraduates working on Leakey Lab projects
-  b. Folders:
+  A. This area is shared by all graduate students, postdocs and undergraduates working on Leakey Lab projects
+  B. Folders:
     i. Grant: a directory is created for each funded proposal
       1. A folder is then created for each project funded under that grant. In the project folder, each researcher will have their own folder to store what they are working on.
       2. These folders should be used to store processed data, code, documentation, manuscripts, and presentations
