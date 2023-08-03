@@ -19,8 +19,15 @@
 
 ### Institute of Genomic Biology Storage Resources
 1. [File-Server](https://help.igb.illinois.edu/File_Server_Access)
+    1. Storage space offered to IGB researchers to promote sharing and data management.
+    2. Every person who has IGB login credentials receives storage on the file-server.
+    3. Each user receives 50 GB of storage in their personal home directory. Each theme receives 10 TB, but this space is shared among all theme researchers.
+    4. This storage is backed up daily
+    5. For full information about the rules of the file-server please see CNRG's [Policy](https://help.igb.illinois.edu/File_Server_Policy)
 2. [Biocluster](https://help.igb.illinois.edu/Biocluster)
-3. 
+    1. Biocluster is CNRG's computation cluster. There are monthly fees for both processing and storage used on the cluster. See the link above for more information on feeds.
+    2. Data stored on Biocluster are not backed up, so it is important to transfer important code and files to another location to ensure they are backed up and secure. Additionally, since there is a fee for all files on Biocluster, it is important to make sure data/files not being currently used/processed are not stored here long-term. You should regularly evaluate what is in your Biocluster folders and determine if it needs to be there. 
+3. [Bioarchive](https://help.igb.illinois.edu/Using_Bioarchive)
 
 ### Leakey Lab Shared Storage
 1. Box ([https://uofi.box.com/s/y7d9vdfhtrbyj5o121eo7eovpq98v7yb](https://uofi.box.com/s/y7d9vdfhtrbyj5o121eo7eovpq98v7yb))
