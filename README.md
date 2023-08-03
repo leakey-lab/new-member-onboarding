@@ -8,5 +8,5 @@ Please review all the material here to ensure you are aware of all the guideline
 - [ ] Review your [Data Storage Options](https://github.com/leakey-lab/new-member-onboarding/blob/main/Data%20Storage%20Options.md)
 - [ ] Review the Shared Data Resources List
 - [ ] Ask to be added to the Leakey Lab Box Folder
-- [ ] Access the Leakey Lab File Server Directory
+- [ ] Access the Leakey Lab File Server Directory ([Access Instructions](https://help.igb.illinois.edu/File_Server_Access))
 - [ ] Set up [Carbonite](https://help.igb.illinois.edu/Carbonite_Install) on your computer to back-up your laptop or desktop computer
