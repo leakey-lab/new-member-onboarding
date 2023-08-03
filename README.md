@@ -1,5 +1,5 @@
 # new-member-onboarding
-This directory has information for new lab members to review regarding data management and resources available
+This directory has information for new lab members to review regarding data management and resources available.
 
 Please review all the material here to ensure you are aware of all the guidelines within the lab and the resources available to you.
 
