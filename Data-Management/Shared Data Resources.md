@@ -43,4 +43,5 @@
         1. Grant: a directory is created for each funded proposal
             1. A folder is created for each project funded under that grant. In the project folder, each researcher will have their own folder to store what they are working on.
             2. These folders should be used to store processed data, code, documentation, manuscripts, and presentations
+
 *Raw and published data can be located here, but in your own folder. Copies must be on Box*
