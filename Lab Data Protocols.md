@@ -19,6 +19,13 @@ All members of the Leakey Lab are added to a shared [Box Folder](https://uofi.bo
 All members of the Leakey Lab can use the shared space in the GEGC theme folder (/file-server/themes/GEGC/LeakeyLab). This space is for storing and sharing:
 - any analyses or processed data
 
+### Leakey Lab GitHub
+
+All members of the Leakey Lab should sign up for a GitHub account even if they do not regularly produce code. This space will be used for: 
+- Sharing and documenting code for analyzing specific data types
+- Making code supporting publications available publicly
+- Sharing protocols within the team
+
 ## Data Management Planning
 
 1. All researchers joining the lab need to develop a data management plan for their project. Researchers should:
