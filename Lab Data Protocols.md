@@ -21,7 +21,7 @@ All members of the Leakey Lab can use the shared space in the GEGC theme folder 
 
 ### Leakey Lab GitHub
 
-All members of the Leakey Lab should sign up for a GitHub account even if they do not regularly produce code. Once you have signed up for your free account, submit a request to join the [Leakey Lab Organization](https://github.com/leakey-lab). This space will be used for: 
+All members of the Leakey Lab should have a GitHub account and join the [Leakey Lab Organization](https://github.com/leakey-lab). This space will be used for: 
 - Sharing and documenting code for analyzing specific data types
 - Making code supporting publications available publicly
 - Sharing protocols within the team
