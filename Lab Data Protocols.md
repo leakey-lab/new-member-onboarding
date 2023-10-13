@@ -38,7 +38,7 @@ All members of the Leakey Lab should have a GitHub account and join the [Leakey 
       - 2 copies of the data should be on different types of media. For instance, 2 could be in the cloud (e.g. Box and Google Drive) and 1 could be on a hard drive or server (e.g. file server).
       - 1 copy should be located offsite. This is harder to accomplish, but a a
     - If collaboration within the lab is necessary, one of the [shared data resources](#shared-lab-data-resources) should be used. Embed your directory under the grant/project that you'll be working on.
-3. Develop an organizational scheme include folder structure and file naming convention. Examples of different types of these can be found on the [Data Management Best Practices Page](Data-Management/Best Practices.md)
+3. Develop an organizational scheme include folder structure and file naming convention. Examples of different types of these can be found on the [Data Management Best Practices Page](#Data-Management/Best Practices.md)
 4. Develop documentation or a README file to describe the data. It should explain how and when the data were collected, instrumentation used for collection, where the measurements were taken, spatial/temporal resolution, and who collected the data. 
 5. Using a log to document the steps in the research process should also be used. This is used to track what scripts are used for each step and how they are altered throughout the process. This can when writing the method section of a manuscript and for when any changes need to occur.
 
