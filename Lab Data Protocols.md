@@ -45,7 +45,7 @@ All members of the Leakey Lab should have a GitHub account and join the [Leakey 
 ## Data Sharing Requirements
 
 ### Raw Data
-All raw data collected belongs to the Leakey Lab and the agency funding your research. To protect this investment, researchers are required to upload all raw datasets to the shared Leakey Lab Box folder. *While this data will be shared with all researchers in the lab, no researcher should use your data without direct communication with the researcher who uploads it and Andrew Leakey until the dataset and accompanying manuscript has been published.*
+All raw data collected belongs to the Leakey Lab and the agency funding your research. To protect this investment, researchers are required to upload all raw datasets to the shared Leakey Lab Box folder. *While this data will be shared with all researchers in the lab, no researcher should use any raw data without direct communication with the researcher who uploads it and Dr. Leakey until the dataset and accompanying manuscript have been published.*
 1. Use a descriptive, standardized name for each file. See the [Data Management Best Practices Page](Data-Management/Data-Storage-Best-Practices.md) for examples. 
 2. Organize the files in a folder structure that makes sense. This could potentially be by date, locations, or data types. The file structure and file name together should make it clear as to what data is in the file.
 3. Create a folder in the Raw Data directory in the [Leakey Lab Box folder](https://uofi.box.com/s/y7d9vdfhtrbyj5o121eo7eovpq98v7yb). The folder should be under the grant, project, and researcher's name. Create any of these folders if necessary.
