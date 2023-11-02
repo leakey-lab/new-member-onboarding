@@ -47,8 +47,7 @@
 2. File Server (*/file-server/themes/GEGC/LeakeyLab*)
     1. This space is shared by all graduate students and postdocs working on Leakey Lab projects.
     2. Folders:
-        1. User: a directory is created for each funded proposal
-            1. Each researcher will have their own folder to store what they are working on.
-            2. These folders should be used to store processed data, code, documentation, manuscripts, and presentations
+        1. Grant: a directory is created for each funded proposal
+            1. These folders should be used to store processed data, code, documentation, manuscripts, and presentations
 
 *Raw and published data can be located here, but in your own folder. Copies must be on Box*
