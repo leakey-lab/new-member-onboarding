@@ -9,7 +9,7 @@
 ### [Google Drive](https://help.uillinois.edu/TDClient/42/UIUC/Requests/ServiceDet?ID=135)
 - Free for faculty, staff and graduate students
 - Storage space is unlimited and maximum file size is 5TB
-- Enable Box services here: https://cloud-dashboard.illinois.edu/cbdash/
+- Enable Drive services here: https://cloud-dashboard.illinois.edu/cbdash/
 
 ### [Microsoft One](https://help.uillinois.edu/TDClient/42/UIUC/Requests/ServiceDet?ID=136)
 - Free for faculty, staff and graduate students
