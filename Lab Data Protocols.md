@@ -36,7 +36,7 @@ All members of the Leakey Lab should have a GitHub account and join the [Leakey 
     - Researchers should attempt to follow the 3-2-1 rule for data storage.
       - 3 copies of the data, one primary and two back-ups. This refers especially to the raw (beginning) data that can not be recovered if lost, but code, some processed data, presentations, posters and manuscripts should be considered in the same way if you would need to redo efforts to re-obtain the files.
       - 2 copies of the data should be on different types of media. For instance, 2 could be in the cloud (e.g. Box and Google Drive) and 1 could be on a hard drive or server (e.g. file server).
-      - 1 copy should be located offsite. This is harder to accomplish, but a a
+      - 1 copy should be located offsite. This is harder to accomplish.
     - If collaboration within the lab is necessary, one of the [shared data resources](#shared-lab-data-resources) should be used. Embed your directory under the grant/project that you'll be working on.
 3. Develop an organizational scheme include folder structure and file naming convention. Examples of different types of these can be found on the [Data Management Best Practices Page](#Data-Management/Best Practices.md)
 4. Develop documentation or a README file to describe the data. It should explain how and when the data were collected, instrumentation used for collection, where the measurements were taken, spatial/temporal resolution, and who collected the data. 
